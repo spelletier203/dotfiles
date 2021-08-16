@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = simon.c.pelletier@gmail.com
+	name = Simon Pelletier
